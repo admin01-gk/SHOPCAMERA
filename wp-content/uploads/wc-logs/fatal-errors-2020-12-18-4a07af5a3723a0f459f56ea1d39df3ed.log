@@ -1,0 +1,2 @@
+2020-12-18T18:34:46+00:00 CRITICAL require(): Failed opening required 'C:\laragon\www\ladipage/wp-content/themes/flatsome/inc/init.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\ladipage\wp-content\themes\flatsome\functions.php on line 8
+
